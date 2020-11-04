@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: D:\Projects\Sunflare solar team\001-H-01-00 [Design frozen] CAN-Bluetooth\001-H-01 CAN to Bluetooth.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=001-h-01 can to bluetooth-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=001-h-01 can to bluetooth-nonplated.txt|DrillLayers=gtl,gbl

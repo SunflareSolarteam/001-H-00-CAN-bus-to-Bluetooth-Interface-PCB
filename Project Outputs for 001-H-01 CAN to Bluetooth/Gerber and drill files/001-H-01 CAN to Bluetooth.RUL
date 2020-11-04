@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: D:\Projects\Sunflare solar team\001-H-01-00 [Design frozen] CAN-Bluetooth\001-H-01 CAN to Bluetooth.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87

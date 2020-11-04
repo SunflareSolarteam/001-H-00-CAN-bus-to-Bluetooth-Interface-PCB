@@ -1,0 +1,23 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 001-H-01 CAN to Bluetooth.PcbDoc   11/4/2020  7:25:43 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : 001-H-01 CAN to Bluetooth-Plated.TXT
+ASCII Non-Plated RoundHoles File : 001-H-01 CAN to Bluetooth-NonPlated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             195       PTH        0.00inch (0.00mm)
+T2      24mil (0.6mm)                                             Round             7         PTH        0.00inch (0.00mm)
+T3      35mil (0.9mm)                                             Round             6         PTH        0.00inch (0.00mm)
+T4      39mil (1mm)                                               Round             35        PTH        0.00inch (0.00mm)
+T5      51mil (1.3mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T6      55mil (1.4mm)                                             Round             2         PTH        0.00inch (0.00mm)
+T7      67mil (1.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T8      138mil (3.5mm)                                            Round             2         PTH        0.00inch (0.00mm)
+T9      138mil (3.5mm)                                            Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              257
+
+Total Processing Time (hh:mm:ss) : 00:00:00
